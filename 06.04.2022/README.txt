@@ -1,0 +1,1 @@
+Activity 4 includes market analysis by selecting specific column in the data to understand the distribution of market better. In addition, there's also visualization of the data in the form of bar and pie graphs.
